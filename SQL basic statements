@@ -1,0 +1,2 @@
+SELECT * FROM table_name
+WHERE column_1 ASC;
